@@ -12,5 +12,7 @@ public class GitTest {
         System.out.println("Third Git Test!");
         //hot-fix无冲突的修改
         System.out.println("hot-fix No-Fire Git Test!");
+        //hot-fix有冲突的修改
+        System.out.println("hot-fix Fire Git Test!");
     }
 }
