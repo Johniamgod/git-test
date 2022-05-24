@@ -16,5 +16,7 @@ public class GitTest {
         System.out.println("master Fire Git Test!");
         //hot-fix有冲突的修改
         System.out.println("hot-fix Fire Git Test!");
+        //测试push
+        System.out.println("push Git Test!");
     }
 }
