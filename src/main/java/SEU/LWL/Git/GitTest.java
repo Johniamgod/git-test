@@ -18,5 +18,7 @@ public class GitTest {
         System.out.println("hot-fix Fire Git Test!");
         //测试push
         System.out.println("push Git Test!");
+        //测试pull
+        System.out.println("push Git Test!");
     }
 }
